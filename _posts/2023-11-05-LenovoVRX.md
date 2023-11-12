@@ -3,7 +3,6 @@ layout: post
 title: Lenovo VRX
 date: 2023-11-05 19:00:00 +0100
 category: 
-
 tags: [AR,XR,device]
 summary: 
 ---

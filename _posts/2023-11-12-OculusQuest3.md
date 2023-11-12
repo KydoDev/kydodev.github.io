@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Oculus Quest 3
-date: 2023
--11-12 19:13:00 +0100
+date: 2023-11-12 17:23:00 +0100
 category: [Blogging]
-
 tags: [VR,XR,device, oculus, quest]
 summary: 
 ---
