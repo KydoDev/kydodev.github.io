@@ -18,7 +18,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: SkiaWare # the main title
+title: KydoDev # the main title
 
 tagline: Not all those who wander are lost. J.R.R. Tolkien # it will display as the sub-title
 
@@ -26,13 +26,13 @@ description: >- # used by seo meta and the atom feed
   A personal blog about Extended Reality (XR) development, game development, and other interesting development topics.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ""
+url: "https://KydoDev.github.io"
 
 github:
   username: KydoDev # change to your github username
 
 twitter:
-  username: twitter_username # change to your twitter username
+  username: KydoDev # change to your twitter username
 
 social:
   # Change to your full name.
